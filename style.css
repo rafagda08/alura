@@ -11,6 +11,9 @@ body {
     padding: 30px
 }
 
+.titulo-princpal {
+    padding-left: 20px;
+}
 .titulo-centralizado {
      text-align:center 
 }
