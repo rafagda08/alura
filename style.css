@@ -6,9 +6,11 @@ body {
     width: 100%;
 }
 
+
+
 .principal{
-    background: #CCCCCC
-    padding: 30px
+    background: #CCCCCC;
+    padding:30px
 }
 
 .titulo-princpal {
@@ -40,7 +42,7 @@ em strong {
 }
 
 ul{
-    display: inline-block;
+    dispbackground: #CCCCCClay: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
